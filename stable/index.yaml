@@ -5,7 +5,7 @@ entries:
       category: Analytics
     apiVersion: v2
     appVersion: 0.6.1
-    created: "2022-11-11T15:42:40.605045+09:00"
+    created: "2022-11-11T15:49:56.331982+09:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -32,4 +32,4 @@ entries:
     urls:
     - metrics-server-6.1.2.tgz
     version: 6.1.2
-generated: "2022-11-11T15:42:40.600835+09:00"
+generated: "2022-11-11T15:49:56.326626+09:00"
